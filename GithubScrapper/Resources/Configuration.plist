@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacyUrl</key>
+	<string>https://docs.github.com/en/github/site-policy/github-privacy-statement</string>
+	<key>termsUrl</key>
+	<string>https://docs.github.com/en/github/site-policy/github-terms-of-service</string>
+	<key>mainUrl</key>
+	<string>https://www.github.com/</string>
+	<key>githubTrendingUrl</key>
+	<string>https://github.com/trending</string>
+	<key>githubApiUrl</key>
+	<string>https://api.github.com/</string>
+	<key>githubToken</key>
+	<string></string>
+</dict>
+</plist>
